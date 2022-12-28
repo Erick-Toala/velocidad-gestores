@@ -12,7 +12,7 @@
 -- ************************************MARIADB************************************
 -- 1) CREAR BASE DE DATOS
 CREATE DATABASE BDPRODUCTO;
-
+USE BDPRODUCTO;
 -- 2) TABLA DE MARIADB
 create table PRODUCTO
 (
